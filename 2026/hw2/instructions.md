@@ -51,7 +51,6 @@ Before modeling anything, get oriented in the dataset and identify the biggest p
 - Define the two outcomes you’ll analyze later:
   - A continuous “carry” outcome (e.g., `hit_distance` on balls where distance is observed)
   - A binary home run outcome: `is_home_run = 1` if `event_result == "home_run"`, else `0`
-- State (briefly) what rows you’ll treat as “balls in play / contact” vs “non-contact,” and why.
 
 **Deliverables:**
 - A short “data audit” section (keep it tight: 1–2 tables + 1 figure + 3–6 bullets).
