@@ -64,7 +64,7 @@ Submit the following:
 - a ranking of goalkeepers with a brief explanation of your method
 
 # Evaluation
-Entries will be judged on:
+Entries will be graded on:
 - clarity of method
 - quality of reasoning
 - effective use of data
