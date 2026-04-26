@@ -1,4 +1,4 @@
-# Assignment: World Hockey League Analytics
+# World Hockey League Analytics
 
 ## Background
 The World Hockey League (WHL) is a 32-team international league. The regular season has ended, and the league is preparing for a single-elimination tournament. Your task is to use regular season data to evaluate team strength, estimate matchup probabilities, and explain which factors appear to matter most.
@@ -19,7 +19,7 @@ To help you interpret the box score and standings:
 
 # Your Tasks
 
-## 1. Build a Team Power Rating
+## 1. Build Team Power Ratings
 Create a power rating for all 32 teams using the season data. Your rating should be data-driven and should capture overall team strength.
 
 Your method should consider useful inputs, such as:
