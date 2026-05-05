@@ -57,7 +57,7 @@ Next, use the regular season data to rank goalkeepers. Include a visualization o
 
 # Deliverables
 Submit the following:
-- a short report (`1-3` pages) or a slide deck summarizing your method and findings, including your power ranking and goaltending visuals
+- a short report or slide deck summarizing your method and findings, including your power ranking and goaltending visuals
 - your code or notebook
 - a final table of team power ratings
 - a completed `first_round_matchups.csv`
