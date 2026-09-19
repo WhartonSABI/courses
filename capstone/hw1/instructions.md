@@ -15,7 +15,7 @@ Your GM wants a full PDF report containing your findings and an explanation of t
 
 ### Part 1a: Initial Ranking Based on First Half Performance
 
-Your first task is to create a ranking of goalie performance. Using the data in `1h_v1.csv`, rank all goalies based on their performance in the first half of the season.
+Your first task is to create a ranking of goalie performance. Using the data in `1h_v1.csv.gz`, rank all goalies based on their performance in the first half of the season.
 
 **Key consideration:** Goalies have different sample sizes (games played). You must develop a ranking methodology that appropriately accounts for these differences.
 
@@ -26,7 +26,7 @@ Your first task is to create a ranking of goalie performance. Using the data in 
 
 ### Part 1b: Predicting Second Half Performance
 
-Your second task is to predict the performance of each goalie in the second half of the season. Using the data in `1h_v1.csv`, make a forecast for each goalie's performance in the second half of the season. You may use any method you choose.
+Your second task is to predict the performance of each goalie in the second half of the season. Using the data in `1h_v1.csv.gz`, make a forecast for each goalie's performance in the second half of the season. You may use any method you choose.
 
 **Key considerations:** Your predictions should account for uncertainty and sample size differences. Consider how to handle goalies with different amounts of playing time.
 

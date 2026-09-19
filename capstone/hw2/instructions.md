@@ -12,7 +12,7 @@ You may work **in teams of 2**.
 
 ## Data
 
-Use the data in `hit-tracking.csv`.
+Use the data in `hit-tracking.csv.gz`.
 
 ### Scope
 
